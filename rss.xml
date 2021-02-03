@@ -1,0 +1,31 @@
+<?xml-stylesheet type="text/xsl"
+href="rss.xsl"?>
+<rss version="2.0">
+<channel>
+<item>
+<title>Home Movies Rent</title>
+<link>https://movieclub96.000webhostapp.com/index.html</link>
+<description>Home page of Rent Movies</description>
+</item>
+<item>
+<title>Rent Movies</title>
+<link>https://movieclub96.000webhostapp.com/movies.html</link>
+<description>Here you can find some movies for rent</description>
+</item>
+<item>
+<title>Cart Movies</title>
+<link>https://movieclub96.000webhostapp.com/cart.html</link>
+<description>This is your rent list</description>
+</item>
+<item>
+<title>Contact Movies</title>
+<link>https://movieclub96.000webhostapp.com/contact.html</link>
+<description>You can reach me any time you want</description>
+</item>
+<item>
+<title>Author Movies</title>
+<link>https://movieclub96.000webhostapp.com/author.html</link>
+<description>Information about author</description>
+</item>
+</channel>
+</rss>
