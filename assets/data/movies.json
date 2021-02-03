@@ -1,0 +1,118 @@
+[
+    {
+      "id": 1,
+      "image": {
+          "src": "assets/images/avengers.jpg",
+          "alt": "Avengers"
+      },
+      "name": "Avengers",
+      "link": "https://www.imdb.com/title/tt0848228/",
+      "price": {
+            "new": 50,
+            "old": 67
+      },
+      "categories": 
+        {
+          "id": 2,
+          "title": "Action"
+        },
+      "text": "Earth's mightiest heroes must come together and fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+    },
+    {
+        "id": 2,
+        "image": {
+            "src": "assets/images/pulp.jpg",
+            "alt": "Pulp"
+        },
+        "name": "Pulp-Fiction",
+        "link": "https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0",
+        "price": {
+              "new": 30,
+              "old": 57
+        },
+        "categories": 
+          {
+            "id": 3,
+            "title": "Drama"
+          },
+        "text": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+        "id": 3,
+        "image": {
+            "src": "assets/images/jumanji.jpg",
+            "alt": "Jumanji"
+        },
+        "name": "Jumanji-Welcome to the Jungle",
+        "link": "https://www.imdb.com/title/tt2283362/",
+        "price": {
+              "new": 40,
+              "old": 50
+        },
+        "categories": 
+          {
+            "id": 1,
+            "title": "Comedie"
+          },
+        "text": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game."
+    },
+    {
+        "id": 4,
+        "image": {
+            "src": "assets/images/it.jpg",
+            "alt": "It"
+        },
+        "name": "It",
+        "link": "https://www.imdb.com/title/tt1396484/?ref_=tt_sims_tt",
+        "price": {
+              "new": 33,
+              "old": 52
+        },
+        "categories": 
+          {
+            "id": 4,
+            "title": "Horror"
+          },
+        "text": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town."
+    },
+    {
+        "id": 5,
+        "image": {
+            "src": "assets/images/thor.jpg",
+            "alt": "Thor"
+        },
+        "name": "Thor",
+        "link": "https://www.imdb.com/title/tt0800369/?ref_=tt_sims_tt",
+        "price": {
+              "new": 23,
+              "old": 42
+        },
+        "categories": 
+          {
+            "id": 2,
+            "title": "Action"
+          },
+        "text": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders. Courage is immortal!"
+    },
+    {
+        "id": 6,
+        "image": {
+            "src": "assets/images/suicide.jpg",
+            "alt": "Suicide-Squad"
+        },
+        "name": "Suicide-Squad ",
+        "link": "https://www.imdb.com/title/tt1386697/?ref_=tt_sims_tti",
+        "price": {
+              "new": 13,
+              "old": 22
+        },
+        "categories": 
+          {
+            "id": 2,
+            "title": "Action"
+          },
+        "text": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse."
+    }
+    
+]
+    

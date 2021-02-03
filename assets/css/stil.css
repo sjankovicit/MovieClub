@@ -1,0 +1,97 @@
+#content{
+ 
+}
+
+#fcleaner{
+    width: 10px;
+}
+
+#functions{
+    display: flex;
+}
+
+#category{
+    padding:5px;
+}
+
+#content{
+    max-height: 100%;
+text-align: center;
+}
+
+#slider{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+#slider img{
+    border-radius: 7px;
+}
+
+.logo{
+    width: 3%;
+    height: 3%;
+    border-radius: 50%;
+
+}
+
+#cards{
+    margin: auto;
+    width: 89%;
+    padding: 10px;
+}
+
+#title{
+    padding: 10px;
+}
+
+#author{
+    margin: auto;
+    width: 25%;
+    padding: 20px;
+}
+
+#contact{
+    font-weight: bold;
+    margin: auto;
+    width: 350px;
+    text-align: center;
+    margin-top: 20px;
+    max-height: 650px;
+    border: 1px solid;
+    padding: 45px;
+}
+
+.card-body{
+    font-weight: bold;
+}
+
+#forma{
+    padding: 8px;
+}
+
+#con{
+    padding: 10px;
+}
+
+#forma input{
+        text-align: center;
+}
+
+li .aktivan{
+    font-weight: bold;;
+}
+
+.sitemap{
+    text-align: center;
+}
+
+#sort{
+    min-width: 130px;
+}
+
+.documentation a{
+    text-decoration: none;
+    color: white;
+}
